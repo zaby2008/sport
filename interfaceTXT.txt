@@ -1,5 +1,6 @@
 央视频道,#genre#
-更新日期: 2026-3-22 09:46:11,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-23 06:33:01,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
@@ -21,12 +22,11 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东移动,http://183.11.239.36:808/hls/14/index.m3u8
-广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
+广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 湖南地区,#genre#
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 衡山综合,https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
@@ -153,7 +153,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 福建地区,#genre#
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 河南地区,#genre#
-河南曲艺,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
@@ -305,6 +304,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
